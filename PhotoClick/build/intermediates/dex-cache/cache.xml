@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.1.1_8a9e7a9417ac4b1fd8405ae59129c541e243c2cd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvrelwani/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.1.1_d0e53c7a5e7707abf9733f4823d143cf18ea9098/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.1.1_db2e8ef33b8fd8ef2e497e90da4a4b2da78ee31d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6bf792cae1136cad3d2a01ec9360eedc74c06b00">
+        <dex dex="/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_983196302cd83f9ec3c604dc9147f449a9fba897/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.1.1_eeb470b67d6d7c5b5e21eee634b2ad3a6f1f1b3b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7d441b81dba06910f3a9604210f7672d6d98542d">
+        <dex dex="/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b9090729f2340b3d8cff14da04ab432b76cb734a/classes.dex" />
+    </item>
+
+</items>
