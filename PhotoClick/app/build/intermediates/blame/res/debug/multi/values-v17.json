@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/res/merged/debug/values-v17/values-v17.xml",
+        "outputFile": "/Users/dhruvrelwani/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/res/merged/debug/values-v17/values-v17.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,14 @@
                     "endOffset": 278
                 },
                 "from": {
-                    "file": "/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v17/values.xml",
+                    "file": "/Users/dhruvrelwani/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 295,
-                        "endLine": 7,
+                        "startOffset": 56,
+                        "endLine": 6,
                         "endColumn": 12,
-                        "endOffset": 518
+                        "endOffset": 279
                     }
                 }
             },
@@ -30,17 +30,17 @@
                     "startOffset": 283,
                     "endLine": 9,
                     "endColumn": 12,
-                    "endOffset": 615
+                    "endOffset": 526
                 },
                 "from": {
-                    "file": "/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v17/values.xml",
+                    "file": "/Users/dhruvrelwani/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 523,
+                        "startOffset": 285,
                         "endLine": 11,
                         "endColumn": 12,
-                        "endOffset": 855
+                        "endOffset": 528
                     }
                 }
             },
@@ -48,62 +48,62 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 620,
-                    "endLine": 12,
+                    "startOffset": 531,
+                    "endLine": 13,
                     "endColumn": 12,
-                    "endOffset": 765
+                    "endOffset": 766
                 },
                 "from": {
-                    "file": "/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v17/values.xml",
+                    "file": "/Users/dhruvrelwani/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 860,
-                        "endLine": 14,
+                        "startOffset": 534,
+                        "endLine": 16,
                         "endColumn": 12,
-                        "endOffset": 1005
+                        "endOffset": 769
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 770,
-                    "endLine": 15,
+                    "startOffset": 771,
+                    "endLine": 16,
                     "endColumn": 12,
-                    "endOffset": 937
+                    "endOffset": 916
                 },
                 "from": {
-                    "file": "/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v17/values.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1010,
-                        "endLine": 17,
-                        "endColumn": 12,
-                        "endOffset": 1177
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 942,
-                    "endLine": 19,
-                    "endColumn": 12,
-                    "endOffset": 1165
-                },
-                "from": {
-                    "file": "/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v17/values.xml",
+                    "file": "/Users/dhruvrelwani/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1182,
-                        "endLine": 21,
+                        "startOffset": 775,
+                        "endLine": 20,
                         "endColumn": 12,
-                        "endOffset": 1405
+                        "endOffset": 920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 921,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1088
+                },
+                "from": {
+                    "file": "/Users/dhruvrelwani/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1093
                     }
                 }
             },
@@ -111,20 +111,20 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1170,
+                    "startOffset": 1093,
                     "endLine": 23,
                     "endColumn": 12,
-                    "endOffset": 1407
+                    "endOffset": 1316
                 },
                 "from": {
-                    "file": "/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v17/values.xml",
+                    "file": "/Users/dhruvrelwani/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1410,
-                        "endLine": 25,
+                        "startOffset": 1099,
+                        "endLine": 29,
                         "endColumn": 12,
-                        "endOffset": 1647
+                        "endOffset": 1322
                     }
                 }
             },
@@ -132,83 +132,83 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1412,
-                    "endLine": 26,
+                    "startOffset": 1321,
+                    "endLine": 27,
                     "endColumn": 12,
-                    "endOffset": 1578
+                    "endOffset": 1558
                 },
                 "from": {
-                    "file": "/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v17/values.xml",
+                    "file": "/Users/dhruvrelwani/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1652,
-                        "endLine": 28,
-                        "endColumn": 12,
-                        "endOffset": 1818
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 1583,
-                    "endLine": 29,
-                    "endColumn": 12,
-                    "endOffset": 1752
-                },
-                "from": {
-                    "file": "/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v17/values.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1823,
-                        "endLine": 31,
-                        "endColumn": 12,
-                        "endOffset": 1992
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 1757,
-                    "endLine": 32,
-                    "endColumn": 12,
-                    "endOffset": 1921
-                },
-                "from": {
-                    "file": "/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v17/values.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1997,
+                        "startOffset": 1328,
                         "endLine": 34,
                         "endColumn": 12,
-                        "endOffset": 2161
+                        "endOffset": 1565
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1926,
-                    "endLine": 36,
+                    "startOffset": 1563,
+                    "endLine": 30,
                     "endColumn": 12,
-                    "endOffset": 2194
+                    "endOffset": 1729
                 },
                 "from": {
-                    "file": "/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v17/values.xml",
+                    "file": "/Users/dhruvrelwani/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
                     "position": {
-                        "startLine": 35,
+                        "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 2166,
+                        "startOffset": 1571,
                         "endLine": 38,
                         "endColumn": 12,
-                        "endOffset": 2434
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1734,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1903
+                },
+                "from": {
+                    "file": "/Users/dhruvrelwani/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1743,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1908,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2072
+                },
+                "from": {
+                    "file": "/Users/dhruvrelwani/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1918,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 2082
                     }
                 }
             },
@@ -216,41 +216,41 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2199,
-                    "endLine": 39,
+                    "startOffset": 2077,
+                    "endLine": 40,
                     "endColumn": 12,
-                    "endOffset": 2394
+                    "endOffset": 2345
                 },
                 "from": {
-                    "file": "/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v17/values.xml",
+                    "file": "/Users/dhruvrelwani/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
                     "position": {
-                        "startLine": 39,
+                        "startLine": 48,
                         "startColumn": 4,
-                        "startOffset": 2439,
-                        "endLine": 41,
+                        "startOffset": 2088,
+                        "endLine": 51,
                         "endColumn": 12,
-                        "endOffset": 2634
+                        "endOffset": 2356
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2399,
-                    "endLine": 42,
+                    "startOffset": 2350,
+                    "endLine": 43,
                     "endColumn": 12,
-                    "endOffset": 2642
+                    "endOffset": 2545
                 },
                 "from": {
-                    "file": "/Users/dhruvrelwani/Downloads/PhotoClick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-v17/values.xml",
+                    "file": "/Users/dhruvrelwani/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml",
                     "position": {
-                        "startLine": 42,
+                        "startLine": 53,
                         "startColumn": 4,
-                        "startOffset": 2639,
-                        "endLine": 44,
+                        "startOffset": 2362,
+                        "endLine": 55,
                         "endColumn": 12,
-                        "endOffset": 2882
+                        "endOffset": 2557
                     }
                 }
             }
